@@ -1,4 +1,3 @@
-# LoanTap-Logistic-Regression
 LoanTap Logistic Regression
 Project Overview
 This project implements a machine learning solution for LoanTap, an online platform that delivers customized loan products to millennials. The data science team at LoanTap needed an underwriting layer to determine the creditworthiness of individuals applying for personal loans. This solution uses logistic regression to predict whether a loan applicant is likely to fully pay back their loan or default (charge off).
