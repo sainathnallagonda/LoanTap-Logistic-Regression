@@ -63,7 +63,3 @@ The dataset contains information about loan applicants including:
 - Scikit-learn for machine learning implementation
 - SMOTE for handling class imbalance
 
-## Future Work
-- Explore other classification algorithms (Random Forest, XGBoost)
-- Implement hyperparameter tuning for improved model performance
-- Create a deployed scoring system for real-time loan application evaluation
